@@ -62,7 +62,6 @@ openai.com
 opentrackr.org
 pages.dev
 piccy.info
-#redis.com
 redis.io
 redtube.com
 remove.bg
@@ -75,6 +74,7 @@ rutracker.org
 rutracker.ru
 selezen.org
 servarr.com
+radarr.video
 skycdp.com
 smartbear.com
 smassets.net
@@ -103,11 +103,14 @@ twtrdns.net
 twttr.com
 twttr.net
 twvid.com
+tmdb.org
+api.tmdb.org
+themoviedb.org
+api.themoviedb.org
 weather.com
 x.com
 youtube.com
 googlevideo.com
-i.ytimg.com
 youtubei.googleapis.com
 youtubekids.com
 ggpht.com
@@ -115,8 +118,4 @@ googleusercontent.com
 ytimg.com
 copilot.microsoft.com
 kinozal.guru
-radarr.video
-tmdb.org
-api.tmdb.org
-themoviedb.org
-api.themoviedb.org
+nnmclub.to
